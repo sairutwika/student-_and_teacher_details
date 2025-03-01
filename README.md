@@ -1,5 +1,3 @@
-# student-_and_teacher_details
-
 # Student & Teacher Management System  
 
 This project is a **Student & Teacher Management System** that allows colleges to store and manage teacher and student details efficiently. It includes functionalities for adding teachers and students, displaying their details, and implementing an **OTP-based verification system** for authentication.  
